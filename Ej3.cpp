@@ -30,6 +30,7 @@ void funcion (Pila<int>& pila,int n){
         }
         aux.push(valor);
     }
+
     mostrarPila(aux);
 
 
@@ -46,8 +47,6 @@ void funcion (Pila<int>& pila,int n){
 
         int contador=1;
         while(!aux.esVacia()){
-
-
         int a=aux.pop();
 
         if (a!=n){

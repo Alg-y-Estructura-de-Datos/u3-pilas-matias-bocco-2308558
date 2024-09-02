@@ -2,5 +2,6 @@ C:/Users/Mbocco/CLionProjects/u3-pilas-matias-bocco-2308558/cmake-build-debug/CM
 C:/Users/Mbocco/CLionProjects/u3-pilas-matias-bocco-2308558/cmake-build-debug/CMakeFiles/Ej2.dir
 C:/Users/Mbocco/CLionProjects/u3-pilas-matias-bocco-2308558/cmake-build-debug/CMakeFiles/Ej3.dir
 C:/Users/Mbocco/CLionProjects/u3-pilas-matias-bocco-2308558/cmake-build-debug/CMakeFiles/Ej4.dir
+C:/Users/Mbocco/CLionProjects/u3-pilas-matias-bocco-2308558/cmake-build-debug/CMakeFiles/Ej6.dir
 C:/Users/Mbocco/CLionProjects/u3-pilas-matias-bocco-2308558/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Mbocco/CLionProjects/u3-pilas-matias-bocco-2308558/cmake-build-debug/CMakeFiles/rebuild_cache.dir
