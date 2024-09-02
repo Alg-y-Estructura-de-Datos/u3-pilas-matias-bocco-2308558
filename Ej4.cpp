@@ -20,51 +20,6 @@ int main() {
     mostrarPila(pila);
     return 0;
 }
-void funcion (Pila<int>& pila,int n){
-    Pila<int>aux;
-    int cont=0;
-    while(!pila.esVacia()){
-        int valor=pila.pop();
-        if (valor==n){
-            cont++;
-        }
-        aux.push(valor);
-    }
-    mostrarPila(aux);
-
-
-
-    if (cont<=1){
-        while(!aux.esVacia()){
-            int a=aux.pop();
-        if (a!=n){
-            pila.push(a);}
-        }
-
-
-        }else if(cont>1){
-
-        int contador=1;
-        while(!aux.esVacia()){
-
-
-        int a=aux.pop();
-
-        if (a!=n){
-            pila.push(a);}
-        else{
-
-            if(contador!=cont){
-                contador++;
-            }else{
-                 pila.push(a);
-        }
-        }
-
-        }
-        }
-    }
-
 
 
 void mostrarPila(Pila<int>& pila) {
